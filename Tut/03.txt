@@ -1,0 +1,12 @@
+Question 1
+1. Depth_first search
+    
+2. Breadth-first search
+
+3. Uniform-cost search
+
+4. Iterative deepening depth-first search 
+
+5. Greedy best-first search
+
+6.
